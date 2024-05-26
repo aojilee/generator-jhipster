@@ -90,7 +90,7 @@
     "didyoumean": "1.2.2",
     "ejs": "3.1.6",
     "faker": "5.5.3",
-    "glob": "7.2.0",
+    "glob": "9.0.0",
     "insight": "0.11.1",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
@@ -104,7 +104,7 @@
     "pluralize": "8.0.0",
     "prettier": "2.4.1",
     "prettier-plugin-java": "1.6.0",
-    "prettier-plugin-packagejson": "2.2.15",
+    "prettier-plugin-packagejson": "2.4.0",
     "progress": "2.0.3",
     "randexp": "0.5.3",
     "semver": "7.3.5",
@@ -113,8 +113,8 @@
     "then-request": "6.0.2",
     "uuid": "8.3.2",
     "winston": "3.3.3",
-    "yeoman-environment": "3.8.0",
-    "yeoman-generator": "5.4.2"
+    "yeoman-environment": "4.0.0",
+    "yeoman-generator": "6.0.0"
   },
   "devDependencies": {
     "chai": "4.3.4",
