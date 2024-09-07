@@ -81,11 +81,11 @@
   },
   "dependencies": {
     "aws-sdk": "2.1033.0",
-    "axios": "0.24.0",
+    "axios": "1.6.8",
     "chalk": "4.1.2",
     "chevrotain": "9.1.0",
     "commander": "8.3.0",
-    "conf": "10.1.0",
+    "conf": "12.0.0",
     "debug": "4.3.2",
     "didyoumean": "1.2.2",
     "ejs": "3.1.6",
@@ -94,7 +94,7 @@
     "insight": "0.11.1",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
-    "mem-fs-editor": "9.3.0",
+    "mem-fs-editor": "11.1.0",
     "minimatch": "3.0.4",
     "normalize-path": "3.0.0",
     "os-locale": "5.0.0",
@@ -113,8 +113,8 @@
     "then-request": "6.0.2",
     "uuid": "8.3.2",
     "winston": "3.3.3",
-    "yeoman-environment": "3.8.0",
-    "yeoman-generator": "5.4.2"
+    "yeoman-environment": "4.0.0",
+    "yeoman-generator": "7.1.1"
   },
   "devDependencies": {
     "chai": "4.3.4",
