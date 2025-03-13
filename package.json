@@ -81,7 +81,7 @@
   },
   "dependencies": {
     "aws-sdk": "2.1033.0",
-    "axios": "0.24.0",
+    "axios": "1.8.2",
     "chalk": "4.1.2",
     "chevrotain": "9.1.0",
     "commander": "8.3.0",
@@ -108,13 +108,13 @@
     "progress": "2.0.3",
     "randexp": "0.5.3",
     "semver": "7.3.5",
-    "shelljs": "0.8.4",
+    "shelljs": "0.9.0",
     "simple-git": "2.47.0",
     "then-request": "6.0.2",
     "uuid": "8.3.2",
     "winston": "3.3.3",
     "yeoman-environment": "3.8.0",
-    "yeoman-generator": "5.4.2"
+    "yeoman-generator": "7.5.0"
   },
   "devDependencies": {
     "chai": "4.3.4",
