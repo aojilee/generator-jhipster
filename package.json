@@ -91,7 +91,7 @@
     "ejs": "3.1.6",
     "faker": "5.5.3",
     "glob": "7.2.0",
-    "insight": "0.11.1",
+    "insight": "0.12.0",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
     "mem-fs-editor": "9.3.0",
@@ -114,7 +114,7 @@
     "uuid": "8.3.2",
     "winston": "3.3.3",
     "yeoman-environment": "3.8.0",
-    "yeoman-generator": "5.4.2"
+    "yeoman-generator": "7.5.0"
   },
   "devDependencies": {
     "chai": "4.3.4",
